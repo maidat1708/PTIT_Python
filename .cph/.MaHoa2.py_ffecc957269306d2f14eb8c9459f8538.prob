@@ -1,0 +1,1 @@
+{"name":"Local: MaHoa2","url":"c:\\Users\\Lenovo\\Documents\\pythonProject\\Python - CodePTIT\\MaHoa2.py","tests":[{"id":1670555373550,"input":"1 ABCD\n14 ROAD\n0","output":"EDCB\nROAD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Lenovo\\Documents\\pythonProject\\Python - CodePTIT\\MaHoa2.py","group":"local","local":true}
